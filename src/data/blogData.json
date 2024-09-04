@@ -1,0 +1,84 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Some Most Essential Questions Every Copywriter Must Ask Before Starting a Project",
+      "date": "June 15, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": true,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Copywriting is a skill that is essential for any business. It is the art of writing persuasive content that convinces people to take action.",
+      "slug": "/"
+    },
+    {
+      "id": 2,
+      "title": "How to Write a Great Blog Post: 5 Tips for Success",
+      "date": "June 10, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": true,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Blogging is a great way to share your thoughts and ideas with the world. But writing a great blog post is not as easy as it seems.",
+      "slug": "/"
+    },
+    {
+      "id": 3,
+      "title": "How to Create a Content Strategy for Your Blog: A Step-by-Step Guide",
+      "date": "June 5, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": true,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Creating a content strategy for your blog is essential for attracting readers, growing your audience, and achieving your business goals.",
+      "slug": "/"
+    },
+    {
+      "id": 4,
+      "title": "Writing on Social Media and Website: A Complete Guide",
+      "date": "July 10, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": false,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Social media and websites are two of the most powerful tools for reaching your audience and growing your business.",
+      "slug": "/"
+    },
+    {
+      "id": 5,
+      "title": "How to Write a Great Sales Letter: A Step-by-Step Guide",
+      "date": "July 5, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": false,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "A sales letter is a powerful tool for persuading people to take action.a well-written sales letter can help you attract more customers.",
+      "slug": "/"
+    },
+    {
+      "id": 6,
+      "title": "How to Write a Great Advertisement: A Step-by-Step Guide",
+      "date": "July 1, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": false,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Advertisements are a powerful tool for reaching your audience and growing your business. But writing a great advertisement is not as easy as it seems.",
+      "slug": "/"
+    },
+    {
+      "id": 7,
+      "title": "Stand Out in a Crowded Room: A Step-by-Step Guide to Building an Authentic Personal Brand",
+      "date": "June 25, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": false,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Building an authentic personal brand is essential for standing out in a crowded room and attracting the right opportunities.",
+      "slug": "/"
+    },
+    {
+      "id": 8,
+      "title": "Website for Personal Branding: Why Your Website is Your Most Valuable Marketing Tool",
+      "date": "June 20, 2021",
+      "author": "Saurabh Kumar Srivastava",
+      "isFeatured": false,
+      "image": "https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723752006/samples/landscapes/nature-mountains.jpg",
+      "description": "Your website is your most valuable marketing tool for building your personal brand and attracting the right opportunities.",
+      "slug": "/"
+    }
+  ]
+}
