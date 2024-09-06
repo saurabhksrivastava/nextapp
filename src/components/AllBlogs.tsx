@@ -17,10 +17,10 @@ interface Blog {
 
 function AllBlogs() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto pb-20 justify-center items-center">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto pb-20 justify-center items-center gap-4">
       {blogData.blogPosts.map((blogPost: Blog) => (
-        <CardContainer key={blogPost.id} className="inter-var mx-3">
-          <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
+        <CardContainer key={blogPost.id} className="inter-var w-full mx-3">
+          <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-full sm:w-[30rem] h-auto rounded-xl p-6 border  ">
             <CardItem
               as="p"
               translateZ="60"

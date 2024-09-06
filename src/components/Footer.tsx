@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { LinkPreview } from "./ui/link-preview";
 
 export function Footer() {
   return (
@@ -18,13 +19,15 @@ export function Footer() {
       <footer className="text-neutral-800 dark:text-white text-center my-10">
         <p>
           &copy; 2024{" "}
-          <a
-            href="https://www.linkedin.com/in/saurabh-kumar-srivastava/"
-            className="italic text-amber-600"
-            target="_blank"
+          <LinkPreview
+            url="https://www.linkedin.com/in/saurabh-kumar-srivastava/"
+            imageSrc="https://res.cloudinary.com/saurabhksrivastava/image/upload/v1723808265/go2huf0hvqc7uqqzppw9.jpg"
+            isStatic={true}
+            // target="_blank"
+            className="font-bold"
           >
             Saurabh Kumar Srivastava
-          </a>
+          </LinkPreview>{" "}
           , All Rights Reserved
         </p>
       </footer>

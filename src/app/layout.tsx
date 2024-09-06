@@ -3,6 +3,7 @@ import { Poppins } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import React from "react";
+import NavbarMenu3 from "@/components/NavbarMenu3";
 
 const inter = Poppins({ weight: ["400", "600", "700"], subsets: ["latin"] });
 
